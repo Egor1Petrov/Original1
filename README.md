@@ -1,13 +1,8 @@
 # Original1
 $ cd C:/Users/user/my_project
 $ git init
-git status
-On branch main
-No commits yet
-nothing to commit (create/copy files and use "git add" to track)
-echo 'Hello, Hexlet!' > README.md
-echo 'Haskell Curry' > PEOPLE.md
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-    PEOPLE.md
-    README.md
+$ git add *.c
+$ git add LICENSE
+$ git commit -m 'Initial project version'
+$ git clone https://github.com/libgit2/libgit2
+$ git clone https://github.com/libgit2/libgit2 mylibgit
