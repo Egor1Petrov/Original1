@@ -7,3 +7,7 @@ No commits yet
 nothing to commit (create/copy files and use "git add" to track)
 echo 'Hello, Hexlet!' > README.md
 echo 'Haskell Curry' > PEOPLE.md
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+    PEOPLE.md
+    README.md
